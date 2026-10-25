@@ -4,6 +4,7 @@ A complete transcription of the English text of Yoshio Mikami's book (Leipzig: B
 Geschichte der mathematischen Wissenschaften*, Heft XXX), page by page, with the figures cropped from the scan.
 
 - **Reader:** [mikami1913_en.pdf](mikami1913_en.pdf), 427 pages, with a linked table of contents.
+- **Japanese translation (日本語訳):** [mikami1913_ja.pdf](mikami1913_ja.pdf), 412 pages; LaTeX source [source/mikami1913_ja.tex](source/mikami1913_ja.tex) (XeLaTeX, fonts Noto Serif and Harano Aji Mincho).
 - **LaTeX source:** [source/mikami1913_en.tex](source/mikami1913_en.tex) with the images in `source/img/`.
   Compile with XeLaTeX (font: Noto Serif); run it twice for the table of contents.
 
@@ -27,6 +28,8 @@ marked [? …].
 PDF pages 1–269 were AI-transcribed with OpenAI models in June–August 2026 and collated against the scan by the
 transcribing model. PDF pages 270–366 were AI-transcribed by Claude Opus 5.5 (Anthropic) in October 2026 from the scan,
 page image by page image, and compared word for word with the Internet Archive text of the same printing.
+
+The Japanese translation follows the English text page by page and keeps Mikami's romanization of names and titles. Pages 1–269 were AI-translated with OpenAI models in June–August 2026, pages 270–366 by Claude Opus 5.5 (Anthropic) in October 2026.
 
 ## Rights
 
